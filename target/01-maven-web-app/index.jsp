@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Greens - <font></h1>
+<h1><font color='black'> Welcome to Greens - <font></h1>
 <h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch </h2>
 
 <a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
